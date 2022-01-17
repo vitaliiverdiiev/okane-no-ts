@@ -1,0 +1,24 @@
+{
+  "shoppingList": [
+    {
+      "name": "Phillip Koketka",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "name": "Buck",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "name": "Konfety",
+      "purchased": false,
+      "id": 12
+    },
+    {
+      "name": "Boolochki",
+      "purchased": false,
+      "id": 13
+    }
+  ]
+}
